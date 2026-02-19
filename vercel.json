@@ -1,0 +1,218 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/item-type/shoes",
+      "destination": "/ACBuy Spreadsheet shoes.html"
+    },
+    {
+      "source": "/shoes",
+      "destination": "/ACBuy Spreadsheet shoes.html"
+    },
+    {
+      "source": "/item-type/shoes/2",
+      "destination": "/ACBuy Spreadsheet shoes2.html"
+    },
+    {
+      "source": "/shoes/2",
+      "destination": "/ACBuy Spreadsheet shoes2.html"
+    },
+    {
+      "source": "/item-type/shoes/3",
+      "destination": "/ACBuy Spreadsheet shoes3.html"
+    },
+    {
+      "source": "/shoes/3",
+      "destination": "/ACBuy Spreadsheet shoes3.html"
+    },
+    {
+      "source": "/item-type/shoes/4",
+      "destination": "/ACBuy Spreadsheet shoes4.html"
+    },
+    {
+      "source": "/shoes/4",
+      "destination": "/ACBuy Spreadsheet shoes4.html"
+    },
+    {
+      "source": "/item-type/shoes/5",
+      "destination": "/ACBuy Spreadsheet shoes5.html"
+    },
+    {
+      "source": "/shoes/5",
+      "destination": "/ACBuy Spreadsheet shoes5.html"
+    },
+    {
+      "source": "/item-type/accessories",
+      "destination": "/ACBuy Spreadsheets Accessories.html"
+    },
+    {
+      "source": "/accessories",
+      "destination": "/ACBuy Spreadsheets Accessories.html"
+    },
+    {
+      "source": "/item-type/accessories/2",
+      "destination": "/ACBuy Spreadsheets Accessories2.html"
+    },
+    {
+      "source": "/accessories/2",
+      "destination": "/ACBuy Spreadsheets Accessories2.html"
+    },
+    {
+      "source": "/item-type/headwear",
+      "destination": "/ACBuy Spreadsheets Headwear.html"
+    },
+    {
+      "source": "/headwear",
+      "destination": "/ACBuy Spreadsheets Headwear.html"
+    },
+    {
+      "source": "/item-type/headwear/2",
+      "destination": "/ACBuy Spreadsheets Headwear2.html"
+    },
+    {
+      "source": "/headwear/2",
+      "destination": "/ACBuy Spreadsheets Headwear2.html"
+    },
+    {
+      "source": "/item-type/hoodies-sweaters",
+      "destination": "/ACBuy Spreadsheets Hoodies Sweaters.html"
+    },
+    {
+      "source": "/hoodies-sweaters",
+      "destination": "/ACBuy Spreadsheets Hoodies Sweaters.html"
+    },
+    {
+      "source": "/item-type/hoodies-sweaters/2",
+      "destination": "/ACBuy Spreadsheets Hoodies Sweaters2.html"
+    },
+    {
+      "source": "/hoodies-sweaters/2",
+      "destination": "/ACBuy Spreadsheets Hoodies Sweaters2.html"
+    },
+    {
+      "source": "/item-type/hoodies-sweaters/3",
+      "destination": "/ACBuy Spreadsheets Hoodies Sweaters3.html"
+    },
+    {
+      "source": "/hoodies-sweaters/3",
+      "destination": "/ACBuy Spreadsheets Hoodies Sweaters3.html"
+    },
+    {
+      "source": "/item-type/hoodies-sweaters/4",
+      "destination": "/ACBuy Spreadsheets Hoodies Sweaters4.html"
+    },
+    {
+      "source": "/hoodies-sweaters/4",
+      "destination": "/ACBuy Spreadsheets Hoodies Sweaters4.html"
+    },
+    {
+      "source": "/item-type/jackets",
+      "destination": "/ACBuy Spreadsheets Jackets.html"
+    },
+    {
+      "source": "/jackets",
+      "destination": "/ACBuy Spreadsheets Jackets.html"
+    },
+    {
+      "source": "/item-type/jackets/2",
+      "destination": "/ACBuy Spreadsheets Jackets2.html"
+    },
+    {
+      "source": "/jackets/2",
+      "destination": "/ACBuy Spreadsheets Jackets2.html"
+    },
+    {
+      "source": "/item-type/jackets/3",
+      "destination": "/ACBuy Spreadsheets Jackets3.html"
+    },
+    {
+      "source": "/jackets/3",
+      "destination": "/ACBuy Spreadsheets Jackets3.html"
+    },
+    {
+      "source": "/item-type/pants-shorts",
+      "destination": "/ACBuy Spreadsheets Pants Shorts.html"
+    },
+    {
+      "source": "/pants-shorts",
+      "destination": "/ACBuy Spreadsheets Pants Shorts.html"
+    },
+    {
+      "source": "/item-type/pants-shorts/2",
+      "destination": "/ACBuy Spreadsheets Pants Shorts2.html"
+    },
+    {
+      "source": "/pants-shorts/2",
+      "destination": "/ACBuy Spreadsheets Pants Shorts2.html"
+    },
+    {
+      "source": "/item-type/pants-shorts/3",
+      "destination": "/ACBuy Spreadsheets Pants Shorts3.html"
+    },
+    {
+      "source": "/pants-shorts/3",
+      "destination": "/ACBuy Spreadsheets Pants Shorts3.html"
+    },
+    {
+      "source": "/item-type/pants-shorts/4",
+      "destination": "/ACBuy Spreadsheets Pants Shorts4.html"
+    },
+    {
+      "source": "/pants-shorts/4",
+      "destination": "/ACBuy Spreadsheets Pants Shorts4.html"
+    },
+    {
+      "source": "/item-type/t-shirts",
+      "destination": "/ACBuy Spreadsheets T-Shirts.html"
+    },
+    {
+      "source": "/t-shirts",
+      "destination": "/ACBuy Spreadsheets T-Shirts.html"
+    },
+    {
+      "source": "/item-type/t-shirts/2",
+      "destination": "/ACBuy Spreadsheets T-Shirts2.html"
+    },
+    {
+      "source": "/t-shirts/2",
+      "destination": "/ACBuy Spreadsheets T-Shirts2.html"
+    },
+    {
+      "source": "/item-type/t-shirts/3",
+      "destination": "/ACBuy Spreadsheets T-Shirts3.html"
+    },
+    {
+      "source": "/t-shirts/3",
+      "destination": "/ACBuy Spreadsheets T-Shirts3.html"
+    },
+    {
+      "source": "/item-type/t-shirts/4",
+      "destination": "/ACBuy Spreadsheets T-Shirts4.html"
+    },
+    {
+      "source": "/t-shirts/4",
+      "destination": "/ACBuy Spreadsheets T-Shirts4.html"
+    },
+    {
+      "source": "/item-type/t-shirts/5",
+      "destination": "/ACBuy Spreadsheets T-Shirts5.html"
+    },
+    {
+      "source": "/t-shirts/5",
+      "destination": "/ACBuy Spreadsheets T-Shirts5.html"
+    },
+    {
+      "source": "/item-type/t-shirts/6",
+      "destination": "/ACBuy Spreadsheets T-Shirts6.html"
+    },
+    {
+      "source": "/t-shirts/6",
+      "destination": "/ACBuy Spreadsheets T-Shirts6.html"
+    }
+  ]
+}
